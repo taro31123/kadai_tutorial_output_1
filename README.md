@@ -1,2 +1,0 @@
-# kadai_tutorial_output_1
-SAMURAI課題「コーポレートサイトをインターネット上に公開しよう」用
